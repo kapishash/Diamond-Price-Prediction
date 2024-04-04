@@ -2,6 +2,12 @@ pandas
 numpy
 seaborn
 flask
+matplotlib
+scikit-learn
+ipykernel
+
+
+
 
 
 # -e .
